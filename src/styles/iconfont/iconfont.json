@@ -1,0 +1,58 @@
+{
+  "id": "3178772",
+  "name": "iconfont",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4951642",
+      "name": "pdf",
+      "font_class": "pdf",
+      "unicode": "eaef",
+      "unicode_decimal": 60143
+    },
+    {
+      "icon_id": "6431809",
+      "name": "txt",
+      "font_class": "txt",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "9418229",
+      "name": "rar",
+      "font_class": "rar",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "16167794",
+      "name": "word",
+      "font_class": "word",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "20018926",
+      "name": "excel",
+      "font_class": "excel",
+      "unicode": "e737",
+      "unicode_decimal": 59191
+    },
+    {
+      "icon_id": "24092069",
+      "name": "rar",
+      "font_class": "rar1",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "24127797",
+      "name": "zip",
+      "font_class": "zip",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}

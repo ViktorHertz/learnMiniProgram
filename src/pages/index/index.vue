@@ -4,6 +4,7 @@
 		<view>
 			<text class="title">{{title}}</text>
 		</view>
+		<span class="iconfont icon-pdf"></span>
 	</view>
 </template>
 
@@ -11,11 +12,16 @@
 	export default {
 		data() {
 			return {
-				title: 'Hello'
+				title: 'Hello wow'
 			}
 		},
 		onLoad() {
-
+			this.request({
+				url: 'http://route.showapi.com/341-1'
+			})
+			.then(res => {
+				console.log(res);
+			})
 		},
 		methods: {
 
